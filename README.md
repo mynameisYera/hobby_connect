@@ -1,6 +1,6 @@
-# 📱 My Flutter App
+# 📱 Hobby Connect App
 
-Welcome to **My Flutter App**! This app is built with **Flutter** and demonstrates modern app design and development.
+Welcome to **Hobby Connect App**! This app is built with **Flutter** and demonstrates modern app design and development.
 
 ---
 
