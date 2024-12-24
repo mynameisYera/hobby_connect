@@ -1,16 +1,32 @@
-# hobby
+# 📱 My Flutter App
 
-A new Flutter project.
+Welcome to **My Flutter App**! This app is built with **Flutter** and demonstrates modern app design and development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
+- 🚀 **Feature 1**: Firebase
+- 📷 **Feature 2**: Flutter
+- 🛠️ **Feature 3**: Firebase
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home Screen | News Screen | Chat Screen |
+|-------------|----------------|-----------------|
+| ![Home Screen](assets/images/screen3.jpg) | ![News Screen](assets/images/screen2.jpg) | ![Chat Screen](assets/images/screen1.jpg) |
+
+| Profile | Chat |
+|---------------|------|
+| ![Profile ](assets/images/profile.jpg) | ![Auth](assets/images/auth.jpg) |
+
+---
+
+## 🚀 Getting Started
+
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mynameisYera/hobby_connect.git
